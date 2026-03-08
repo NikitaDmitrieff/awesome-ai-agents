@@ -453,6 +453,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### auto-co
+<div><a href="https://github.com/NikitaDmitrieff/auto-co-meta"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/NikitaDmitrieff/auto-co-meta"><img src="https://img.shields.io/github/stars/NikitaDmitrieff/auto-co-meta?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 13 stars (Updated: 2026-03-08)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>auto-co is a fully autonomous AI company framework that runs a 14-agent team (CEO, CTO, CFO, marketing, QA, DevOps, etc.) in a continuous loop using Claude Code CLI. Each agent is modeled on the thinking patterns of a world-class expert. Ships with a live dashboard, npm CLI (create-auto-co), and 120+ completed autonomous cycles</p>
+
+<p><a href="https://github.com/NikitaDmitrieff/auto-co-meta">github</a> | <a href="https://runautoco.com">website</a> | <a href="https://www.npmjs.com/package/create-auto-co">npm</a></p>
+</div>
+
 ### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>
